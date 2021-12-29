@@ -1,1 +1,1 @@
-[![Build Status](https://google.com/)](https://google.com/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
